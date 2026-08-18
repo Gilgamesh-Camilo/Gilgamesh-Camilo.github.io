@@ -6,7 +6,7 @@ import siteConfig from './src/data/site-config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://Gilgamesh-Camilo.github.io',
+    site: 'https://gilgamesh-camilo.github.io',
     vite: {
         plugins: [tailwindcss()]
     },
